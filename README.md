@@ -55,9 +55,9 @@ Steps used:
 1. Clone the repository:
 ```
 %cd /content
-!rm -rf PMUY-AI-test
-!git clone https://github.com/tanisha0710-ui/PMUY-AI.git PMUY-AI-test
-%cd PMUY-AI-test
+!rm -rf PMUY-final-project-project
+!git clone https://github.com/Neha10000/PMUY-final-project-project.git
+%cd PMUY-final-project-project
 
 ```
 
